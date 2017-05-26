@@ -8,3 +8,5 @@ int c = a + b;
 //这块应该是第二次管理修改部分
 
 //好了就算master的
+
+//禁用Fast forward哟
